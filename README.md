@@ -174,13 +174,8 @@ Displays the Energy Spectral Density showing how energy is distributed across fr
 
 1. Open MATLAB.
 2. Clone the repository
-
-git clone https://github.com/yourusername/pulse-fourier-transform-matlab.git
-
 3. Open the MATLAB script.
-
 4. Run the script.
-
 5. Enter the requested parameters in the MATLAB console.
 
 ---
@@ -190,7 +185,7 @@ git clone https://github.com/yourusername/pulse-fourier-transform-matlab.git
 pulse-fourier-transform-matlab
 
 │
-├── pulse_analysis.m
+├── main.m
 └── README.md
 
 ---
